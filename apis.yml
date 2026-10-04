@@ -48,7 +48,7 @@ tags:
 - Company
 - Semiconductors
 - Hardware
-- Data-Center
+- Data Center
 - Networking
 - Connectivity
 - Optical Networking
@@ -62,6 +62,7 @@ tags_raw:
 - Connectivity
 - Optical Networking
 - Acquired
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -73,3 +74,7 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-status: acquired
+x-acquired-by: marvell-technology
+x-acquired-date: 2021-04-20
+x-status-source: https://www.inphi.com 301 -> https://www.marvell.com/ (checked 2026-09-24); Marvell completed the Inphi acquisition April 2021
